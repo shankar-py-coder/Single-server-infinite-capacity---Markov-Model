@@ -51,7 +51,7 @@ print("---------------------------------------------------------------")
 ```
 
 ## Output :
-![321572044-bc252606-8a2f-479a-8178-f5c9ad1afb92](https://github.com/user-attachments/assets/cb648ada-9aba-4c46-b4d4-3b6a1e4236cd)
+![image alt](image_url)https://github.com/shankar-py-coder/Single-server-infinite-capacity---Markov-Model/blob/78467f8d88436a90c981d5b15258cf828a024951/Screenshot%202026-03-14%20170530.png
 
 ## Result :
 
